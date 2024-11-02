@@ -1,0 +1,53 @@
+{
+    "masterClasses": [
+      {
+        "nombre": "Alejandro Muñoz Cano",
+        "ciudad": "Bogotá",
+        "fecha": "14 de septiembre",
+        "enlace": "https://www.youtube.com/watch?v=AHmQ4kbw52Y"
+      },
+      {
+        "nombre": "Juan David Ortiz",
+        "ciudad": "Cali",
+        "fecha": "21 de septiembre",
+        "enlace": "https://www.youtube.com/watch?v=V5gmzKO9C2c"
+      },
+      {
+        "nombre": "Natalia Restrepo",
+        "ciudad": "Medellín",
+        "fecha": "2 de octubre",
+        "enlace": "https://www.youtube.com/watch?v=X1aFI7R1-Uw"
+      },
+      {
+        "nombre": "Marcela Londoño",
+        "ciudad": "Ibagué",
+        "fecha": "28 de septiembre",
+        "enlace": "https://www.youtube.com/watch?v=03_9g2nR0wQ"
+      },
+      {
+        "nombre": "Elizabeth Otálvaro",
+        "ciudad": "Sincelejo",
+        "fecha": "5 de octubre",
+        "enlace": "https://www.youtube.com/watch?v=limjM9N_K0Y&t=2s"
+      },
+      {
+        "nombre": "Juan Camilo Castro Gallego",
+        "ciudad": "Apartadó",
+        "fecha": "19 de octubre",
+        "enlace": "https://www.youtube.com/watch?v=OoRpIj7-Fic"
+      },
+      {
+        "nombre": "Ximena Forero",
+        "ciudad": "Barranquilla",
+        "fecha": "26 de octubre",
+        "enlace": "https://www.youtube.com/live/qaBMt4rqGj0"
+      },
+      {
+        "nombre": "Alejandro Muñoz Cano",
+        "ciudad": "Medellín",
+        "fecha": "1 de noviembre",
+        "enlace": "https://www.youtube.com/live/9TQ1mswuFoM"
+      }
+    ]
+  }
+  

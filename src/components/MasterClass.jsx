@@ -40,7 +40,7 @@ const MasterClass = () => {
         </div>
 
         {/* Sessions Links */}
-        <div className="space-y-4 flex flex-col-reverse">
+        <div className="space-y-2">
           {sessions.length > 0 ? (
             sessions.map((session, index) => (
               <a
